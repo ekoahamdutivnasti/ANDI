@@ -1,0 +1,23 @@
+The GitHub repository "ANDI-AUTOMATIC-NVIDIA-DRIVER-INSTALLER" automates the installation process of NVIDIA drivers on Linux systems. Follow these steps to use it:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/ekoahamdutivnasti/ANDI-AUTOMATIC-NVIDIA-DRIVER-INSTALLER
+   ```
+
+2. **Navigate to the repository directory**:
+   ```bash
+   cd ANDI-AUTOMATIC-NVIDIA-DRIVER-INSTALLER
+   ```
+
+3. **Provide execute permissions to `N.sh`**:
+   ```bash
+   chmod +x N.sh
+   ```
+
+4. **Run `N.sh` with elevated privileges** (sudo):
+   ```bash
+   sudo ./N.sh
+   ```
+
+This script simplifies the process of installing NVIDIA drivers on your Linux machine, ensuring that the drivers are installed correctly and efficiently. Make sure to review the script contents and any instructions provided within the repository before executing it.
